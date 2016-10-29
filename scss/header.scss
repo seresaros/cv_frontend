@@ -1,0 +1,22 @@
+header {
+	margin-top: 120px;
+
+
+   .photo-header {
+	text-align: center;
+	border-bottom: 5px double color2;
+	}
+   .photo-header > img {
+	border-radius: 50%;
+	margin-top: -75px;
+	border: 10px solid color2;
+	}
+	.photo-header h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	}
+	.photo-header h1 > span {
+	color: color1;
+	}
+}
